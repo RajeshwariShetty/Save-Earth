@@ -1,0 +1,117 @@
+
+/*index.html styles*/
+
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background-color:black;
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background-color:white;
+}
+
+
+#hd3{
+	display: inline-block;
+	color: red;
+	background-color: aliceblue;
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-size:55;
+	
+}
+
+
+/*first.html styles*/
+
+#image1
+{
+ width:40%;
+ height:40%;
+}
+
+#button1{
+    background-color:chartreuse;
+    color:darkred;
+    width: 100px;
+    height: 80px;
+    border-style: solid;
+    font-size: 20px;
+}
+
+hr{
+width: 250px;
+height: 50px;
+outline-color: green;
+}
+
+h1{
+	border-bottom: green;
+	 
+ }
+ 
+ h2{
+	 font-family :Georgia, 'Times New Roman', Times, serif;
+	 color:crimson;
+	 font-size: 24px;
+	 text-transform: capitalize;
+ 
+ }
+ #p1
+ {
+	 font-family:'Times New Roman', Times, serif;
+	 color:brown;
+	 font-size: 24px;
+	
+ 
+ }
+
+ p{
+	 background-color: aqua;
+	 font-family:'Times New Roman', Times, serif;
+	 width: 100%;
+	 font-weight: bold;
+	 font-size: 24px;
+	
+ }
+ button{
+	 background-color: green;
+	 font-size: 24px;
+	 font-weight: bold;
+	 color:white;
+ }
+
+ ul{
+	 font-size:20px;
+	 font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+
+ /*second.html related */
+
+
+ 
+#canvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+    border-color: gray
+}
+
+h3
+{
+	width: 1000px;
+	background-color: white;
+	display: inline-block;
+}
+
+
+
+
+
+
+
